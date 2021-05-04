@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Cameron Akey
 
-You can use the [editor on GitHub](https://github.com/Acercam20/Acercam20.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Unity Game Developer and Game Development graduate at George Brown College.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub](https://github.com/Acercam20)
+
+
 
 ### Markdown
 
